@@ -1,11 +1,11 @@
-python
-pip
-numpy >= 1.21.2
-pandas >= 1.2.4
-pytorch >= 1.10.1
-transformers >= 4.6.1
-nltk >= 3.4.4
-matplotlib >= 3.4.2
-seaborn >= 0.11.1
-tqdm >= 4.59.0
-mosestokenizer >= 1.2.1
+python>=3.8
+pip>=23.0
+numpy>=1.21.2
+pandas>=1.2.4
+pytorch>=1.10.1
+transformers>=4.6.1
+nltk>=3.4.4
+matplotlib>=3.4.2
+seaborn>=0.11.1
+tqdm>=4.59.0
+mosestokenizer>=1.2.1
